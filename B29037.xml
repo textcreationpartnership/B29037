@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A rod for Rom[e] or, a description of the Popish clerg[y] their Popes, cardinals, Jesuites, monks, fryers,[-] in their proper colours.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29037</idno><idno type="EEBO-CITATION">99886689</idno>
+  <idno type="VID">187009</idno>
+  <idno type="EEBO-PROQUEST">2240887161</idno>
+  
+            <idno type="STC">Wing R1769</idno>
+            <idno type="STC">Interim Tract Supplement Guide Lutt.III[133]</idno>
+            <idno type="STC">ESTC R226377</idno>
+            <idno type="PROQUEST">ocm99886689</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886689e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29037)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187009)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C6:1[135])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A rod for Rom[e] or, a description of the Popish clerg[y] their Popes, cardinals, Jesuites, monks, fryers,[-] in their proper colours.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, in Vine-street, on Saffron-Hill, neer Hatton-Garden,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse. First line of text: "Describe the Romish Jesuites, who can do't?".</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>An anti-Catholic satire.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  England --  Controversial literature --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Catholics --  England --  Poetry --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:187009:1"/>
+            <head>A ROD FOR ROM<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> OR, A Description of the Popish Clerg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Their Popes, Cardinals, Iesuites, Monks, Fryers,</hi>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> IN THEIR PROPER COLOURS.</head>
+            <lg>
+               <l>DEscribe the <hi>Romish Jesuites,</hi> who can do't?</l>
+               <l>'Tis just, <hi>To fit a Shooe to th' Devils Foot;</hi>
+               </l>
+               <l>
+                  <hi>Proteus</hi> Appear'd not in such Various <hi>Shapes,</hi>
+               </l>
+               <l>Woolves, Lyons, Tygers, Spaniels, Foxes, Apes:</l>
+               <l>Gross <hi>Ignorance</hi> with <hi>Deepest Policy</hi>
+               </l>
+               <l>Conjoyn'd, make up that <hi>Babel-Hierarchy,</hi>
+               </l>
+               <l>Their Towering <hi>Pride</hi> from feigned <hi>Meekness</hi> springs,</l>
+               <l>
+                  <hi>Servants</hi> of <hi>Servants</hi> Lord it over <hi>Kings:</hi>
+               </l>
+               <l>
+                  <hi>Indulgence-Graunters,</hi> yet Deaf to Complaints,</l>
+               <l>Worship Christ's <hi>Picture,</hi> but Devour his <hi>Saints:</hi>
+               </l>
+               <l>Strange <hi>Ridling Monsters!</hi> too late Understood</l>
+               <l>Tongues tipt with <hi>Oyl,</hi> but Hands begor'd with <hi>Blood.</hi>
+               </l>
+               <l>Let whoso will <hi>Romes Syren Anthems</hi> sing,</l>
+               <l>And Fancy <hi>Popery</hi> a <hi>Toothless</hi> thing;</l>
+               <l>Applaud the Zeal of <hi>Holy Church,</hi> and swear</l>
+               <l>True <hi>Love</hi> and <hi>Charity</hi> dwell only there:</l>
+               <l>Who <hi>trusts</hi> and <hi>tries,</hi> shall find, I dare engage,</l>
+               <l>A Lyon's <hi>still a Lyon,</hi> though in a <hi>Cage;</hi>
+               </l>
+               <l>From their Tryumphant <hi>Seats</hi> could we bring down</l>
+               <l>Those <hi>pious souls</hi> whom <hi>Bonner's</hi> Rage did Crown</l>
+               <l>With cruel <hi>Martyrdom</hi> in <hi>Mary</hi>'s Days,</l>
+               <l>Summon the Brave <hi>Coligni's</hi> Ghost, or Raise</l>
+               <l>Spirits, from their <hi>dear Bodies</hi> forc'd to flee</l>
+               <l>I'th <hi>Irish,</hi> or the <hi>Piedmont</hi> Massacree:</l>
+               <l>They'd tell <hi>another tale;</hi> there we might view</l>
+               <l>The true <hi>Idaea's</hi> of th' <hi>Ignatian Crew:</hi>
+               </l>
+               <l>Their <hi>Pope</hi> upon Mens <hi>slavish Necks</hi> is bourn,</l>
+               <l>As if his <hi>Feet</hi> to touch the Ground did scorn:</l>
+               <l>
+                  <hi>Simons Successor</hi> he Pretends to be,</l>
+               <l>And why? He gets the Place by <hi>Simony;</hi>
+               </l>
+               <l>For subtle <hi>Cardinals</hi> in <hi>Conclave</hi> met,</l>
+               <l>Can <hi>six</hi> to <hi>one</hi> on next <hi>Election</hi> Bett;</l>
+               <l>And yet with <hi>Confidence</hi> still boldly Boast</l>
+               <l>Prevailing <hi>Faction,</hi> as the <hi>Holy-Ghost;</hi>
+               </l>
+               <l>As if that Blessed and <hi>Peace-Breathing-Dove,</hi>
+               </l>
+               <l>Would with the Interests of such <hi>Vultures</hi> move;</l>
+               <l>They say He's <hi>more</hi> than <hi>Man,</hi> than a <hi>God</hi> less,</l>
+               <l>What can we then Him but a <hi>Devil</hi> guess?</l>
+               <l>He bears the <hi>Keys</hi> of Heaven and Hell in Course,</l>
+               <l>But uses bo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> as <hi>Pick-locks</hi> for the Purse,</l>
+               <l>A wondrous Doctrine of the New <hi>Edition,</hi>
+               </l>
+               <l>Live as you <hi>list,</hi> Money shall gain <hi>Remission;</hi>
+               </l>
+               <l>For <hi>Gold</hi> you may as due challenge Salvation,</l>
+               <l>And purchase Works of <hi>Superoragation;</hi>
+               </l>
+               <l>
+                  <hi>Romes</hi> faith was rumor'd once the world throughout,</l>
+               <l>How hath she now <hi>Justled</hi> that Gospel out?</l>
+               <l>
+                  <hi>Paul</hi> made her flourish with truth's Purity,</l>
+               <l>But now <hi>Traditions, Beads, Idolatry,</hi>
+               </l>
+               <l>
+                  <hi>Mass, Merits, Pardons,</hi> these thy traffick are,</l>
+               <l>Running from Christ after a <hi>Falling-star;</hi>
+               </l>
+               <l>Once a bright <hi>Candle,</hi> now a stinking <hi>snuff,</hi>
+               </l>
+               <l>A <hi>Room</hi> where Satan stows his <hi>Houshould-stuff:</hi>
+               </l>
+               <l>Yet still she doth the <hi>rotten Casket</hi> Boast,</l>
+               <l>When all the Antient <hi>Gems</hi> are <hi>chang'd,</hi> or <hi>lost;</hi>
+               </l>
+               <l>Her <hi>Cardinals</hi> but <hi>Parish-Priests</hi> of old,</l>
+               <l>To take the <hi>Wall</hi> of <hi>Princes</hi> now are bold:</l>
+               <l>And by their Acts their <hi>Scarlet-Caps</hi> we find</l>
+               <l>Unhappy Emblems of their <hi>Sanguine</hi> mind;</l>
+               <l>With State-Affairs they mix <hi>Holy Intrigues,</hi>
+               </l>
+               <l>Yet can <hi>absolve</hi> from the most Sacred <hi>Leagues:</hi>
+               </l>
+               <l>In dark <hi>Caballs</hi> they Plot unthought of Jarrs,</l>
+               <l>On <hi>Christendome</hi> Intailing endless <hi>Wars;</hi>
+               </l>
+               <l>Their stately <hi>Convents, Abbies, Monastries,</hi>
+               </l>
+               <l>
+                  <hi>Religious Coney-Burrows,</hi> Nunneries;</l>
+               <l>And <hi>Cloyster-Walls,</hi> what are they all at once,</l>
+               <l>But <hi>Nests</hi> of Folly, <hi>Hives</hi> of Idle <hi>Drones;</hi>
+               </l>
+               <l>And yet not wholly <hi>Idle,</hi> for sometimes</l>
+               <l>We find them <hi>Busie,</hi> but in Cursed <hi>Crimes,</hi>
+               </l>
+               <l>Inventing <hi>Gun-powder,</hi> and with that <hi>Breath</hi>
+               </l>
+               <l>Of Hell, to send at <hi>Once</hi> whole <hi>States</hi> to Death;</l>
+               <l>Or Plotting by slow <hi>Poisons,</hi> or bold <hi>Knife,</hi>
+               </l>
+               <l>To Cut the <hi>Thread</hi> of some <hi>Brave Monarchs</hi> Life.</l>
+               <l>Thus all their <hi>Monks</hi> of different sorts become</l>
+               <l>In every <hi>Realm</hi> stout <hi>Janizar's</hi> for <hi>Rome;</hi>
+               </l>
+               <l>Whom Kings, the Churches <hi>Interest</hi> to Inlarge</l>
+               <l>Against <hi>themselves,</hi> Maintain at their <hi>own</hi> Charge:</l>
+               <l>Could we withdraw the <hi>Vail,</hi> how might we spy</l>
+               <l>Their <hi>private Haunts,</hi> forbid to Layman's Eye;</l>
+               <l>In close <hi>Confessions</hi> what rare tricks are done</l>
+               <l>'Twixt Jolly <hi>Fryar</hi> and more <hi>Buxome Nun;</hi>
+               </l>
+               <l>But above all the <hi>Jesuite</hi> Out-Rants</l>
+               <l>The sillier Swarms of Cheating <hi>Mendicants.</hi>
+               </l>
+               <l>For <hi>State-Intrigues</hi> the Famous <hi>Matchiavel</hi>
+               </l>
+               <l>He counts an Ass, Dunces <hi>Achitophel:</hi>
+               </l>
+               <l>By faigned <hi>Miracles</hi> and <hi>Reliaues</hi> vain,</l>
+               <lg>
+                  <l>They seek your <hi>Soul,</hi> but rat<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <hi>Gold</hi> to gain,</l>
+                  <l>Whereby their <hi>Priests</hi> plump <hi>oncubines</hi> maintain.</l>
+               </lg>
+               <l>The <hi>Jesuite</hi> for this Opens his <hi>Pack</hi>
+               </l>
+               <l>In every <hi>Town;</hi> Come <hi>see,</hi> What is't <hi>You Lack?</hi>
+               </l>
+               <l>Here's <hi>holy Wood,</hi> and Wonder-working <hi>Bones,</hi>
+               </l>
+               <l>More <hi>holy Blood,</hi> and Consecrated <hi>Stones:</hi>
+               </l>
+               <l>The Virgins <hi>Linnen,</hi> and her Growing <hi>Hair,</hi>
+               </l>
+               <l>Pails of her <hi>Milk,</hi> besides her <hi>Picture</hi> Fair,</l>
+               <l>Drawn by St. <hi>Luke,</hi> they can expose to <hi>view,</hi>
+               </l>
+               <l>Still <hi>finding those</hi> that will believe <hi>them</hi> too:</l>
+               <l>Produce your <hi>Pence,</hi> and presently they bring</l>
+               <l>A <hi>Feather</hi> of the Angel <hi>Gabriels Wing;</hi>
+               </l>
+               <l>Here's some of that <hi>Broil'd Fish</hi> which Christ did Eat,</l>
+               <l>Rare <hi>Cooks</hi> that can so <hi>long</hi> preserve such Meat:</l>
+               <l>This th' <hi>Asses Tail</hi> on which our Lord did <hi>Ride,</hi>
+               </l>
+               <l>And what are these, can such fond <hi>Tales</hi> abide?</l>
+               <l>Yet well they <hi>may,</hi> who stranger things beleive,</l>
+               <l>Done every Day when they the <hi>Host</hi> receive.</l>
+               <l>Stand back dull Protestants, confess and tell,</l>
+               <l>You have not found <hi>such Faith</hi> in Israel;</l>
+               <l>That every <hi>Shaveling Priest</hi> in sin partaker,</l>
+               <l>Can by <hi>five</hi> words at Pleasure <hi>Make</hi> his Maker:</l>
+               <l>Nay make a thousand Makers in an Hour,</l>
+               <l>And them again as soon as made <hi>Devour:</hi>
+               </l>
+               <l>Right <hi>Canniballs!</hi> yet herein <hi>worse</hi> by odds,</l>
+               <l>Those only Eat their <hi>Brethren,</hi> these their Gods.</l>
+            </lg>
+         </div>
+         <trailer type="license">With Allowance.</trailer>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> F. Coles, <hi>in Vine-street, on</hi> Saffron-Hill, <hi>neer</hi> Hatton-Garden.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
